@@ -1,0 +1,9 @@
+id nombre duracion genero titulo_episodio temporada
+1 Batman 120 accion
+3 The_Hobbit 124 drama
+4 Stranger_Things 45 suspenso el_Inicio 1
+5 Roma 90 drama
+6 The_Chosen 51 drama el_origen 1
+17 Inception 125 suspenso
+18 Stranger_Things 47 suspenso la_casa 1
+22 The_Chosen 58 drama la_llamada 2
